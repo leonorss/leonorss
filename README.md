@@ -1,6 +1,5 @@
 
-I am a Master Student in Computational Biology and Bioinformatics at ETH Zürich, interested in multi-omics data, 
-especially genomics, transcriptomics, epigenomics and imgaging mass cytometry (IMC).
+I have a Master’s degree in Computational Biology and Bioinformatics and experience in analysing different NGS data such as epigenomics and Imaging Mass Cytometry data using python, R and the command line environment. I have a solid computational background from my Bachelor’s degree in Computational Science and Engineering, as well as the ability to understand and investigate biological and cellular studies. Leveraging my expertise and curiosity to solve problems, I am excited to contribute to the cutting-edge field of precision medicine and drug discovery.
 
 ---
 
