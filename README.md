@@ -1,7 +1,8 @@
 # Hi, I'm Leonor :blush:
 
 <img src="https://github.com/leonorss/leonorss/blob/main/logo_banner.png" alt="Banner of my interests">
-I have a Master’s degree in Computational Biology and Bioinformatics and experience in analysing different NGS data such as epigenomics and Imaging Mass Cytometry data using python, R and the command line environment. I have a solid computational background from my Bachelor’s degree in Computational Science and Engineering, as well as the ability to understand and investigate biological and cellular studies. Leveraging my expertise and curiosity to solve problems, I am excited to contribute to the cutting-edge field of precision medicine and drug discovery.
+
+I have a Master’s degree in Computational Biology and Bioinformatics and experience in analysing different NGS data such as transcriptomic, epigenomic and Imaging Mass Cytometry data using python, R and the command line environment. I have a strong computational background from my Bachelor’s degree in Computational Science and Engineering, coupled with the ability to understand and apply my knowledge to biological and cellular studies from my Master’s degree. Leveraging my expertise and curiosity to solve problems, I am excited to contribute to the cutting-edge field of precision medicine and drug discovery.
 
 ---
 
