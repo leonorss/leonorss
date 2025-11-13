@@ -9,7 +9,9 @@ I have a Master’s degree in Computational Biology and Bioinformatics and exper
 ## GitHub statistics
 
 ![leonorss's Stats](https://github-readme-stats.vercel.app/api?username=leonorss&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
 ![leonorss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonorss&theme=dracula&hide_border=false)
+
 ![leonorss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonorss&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ---
