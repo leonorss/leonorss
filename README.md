@@ -8,9 +8,9 @@ I have a Master’s degree in Computational Biology and Bioinformatics and exper
 
 ## GitHub statistics
 
-![leonorss's Stats](https://github-readme-stats.vercel.app/api?username=leonorss&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![leonorss's Stats](https://github-readme-stats.vercel.app/api?username=leonorss&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![leonorss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonorss&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![leonorss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonorss&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
